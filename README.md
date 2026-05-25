@@ -1,3 +1,14 @@
+---
+title: Red Team Reviewer
+emoji: 🗡
+colorFrom: red
+colorTo: orange
+sdk: streamlit
+sdk_version: "1.40.0"
+app_file: app.py
+pinned: false
+---
+
 # 🗡 Red Team Reviewer
 
 > A four-pass AI peer reviewer that finds every weakness in your academic writing before your supervisor does.
